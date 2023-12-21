@@ -1,0 +1,68 @@
+#b1 {
+    width: 700px;
+    height: 700px;
+    
+    margin: 50px;
+    
+    border: 10px dotted gray;
+}
+
+#b2 {
+    width: 600px;
+    height: 600px;
+    
+    margin: 40px;
+    
+    border: 10px dashed red;
+    
+}
+
+#b3 {
+    width: 500px;
+    height: 500px;
+    
+    margin: 40px;
+    
+    border: 10px double gray;
+    
+}
+
+#b4 {
+    width: 400px;
+    height: 400px;
+    
+    margin: 40px;
+    
+    border: 10px groove gray;
+    
+}
+
+#b5 {
+    width: 300px;
+    height: 300px;
+    
+    margin: 40px;
+    
+    border: 10px ridge red;
+    
+}
+
+#b6 {
+    width: 200px;
+    height: 200px;
+    
+    margin: 40px;
+    
+    border: 10px inset gray;
+    
+}
+
+#b7 {
+    width: 100px;
+    height: 100px;
+    
+    margin: 40px;
+    
+    border: 10px outset gray;
+    
+}

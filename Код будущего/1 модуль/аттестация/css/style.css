@@ -1,0 +1,44 @@
+.wrap {
+    display: inline-block;
+    position: relative;
+    width: 250px;
+    height: 250px;
+    margin: 25px;
+}
+
+.wrap div {
+    width: 100px;
+    height: 100px;
+    position: absolute;
+}
+
+#w2 .b2{
+    z-index: 2;
+}
+
+#w3 .b2{
+    z-index: -1;
+}
+
+.b1 {
+    background-color: red;
+    
+    top: 0px;
+    left: 0px;
+}
+
+.b2 {
+    background-color: blue;
+    
+    
+    top: 75px;
+    left: 75px;
+}
+
+.b3 {
+    background-color: green;
+    
+    
+    top: 150px;
+    left: 150px;
+}
